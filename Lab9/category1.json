@@ -1,0 +1,42 @@
+{
+  "category": {
+    "id": 1,
+    "name": "Fantasy",
+    "shortname": "Books",
+    "notes": "Some notes about books."
+  },
+  "items": [
+    {
+      "id": 13,
+      "name": "The Alchemist",
+      "shortname": "Alchemist",
+      "description": "A novel by Paulo Coelho about a young shepherd's journey.",
+      "price": 9.99,
+      "photo": "https://place-hold.it/300x300"
+    },
+    {
+      "id": 14,
+      "name": "The Catch-22",
+      "shortname": "Catch-22",
+      "description": "A satirical novel by Joseph Heller.",
+      "price": 12.99,
+      "photo": "https://place-hold.it/300x300"
+    },
+    {
+      "id": 15,
+      "name": "The Chronicles of Narnia",
+      "shortname": "Narnia",
+      "description": "A series of fantasy novels by C.S. Lewis.",
+      "price": 21.99,
+      "photo": "https://place-hold.it/300x300"
+    },
+    {
+      "id": 16,
+      "name": "The Shining",
+      "shortname": "Shining",
+      "description": "A horror novel by Stephen King.",
+      "price": 14.99,
+      "photo": "https://place-hold.it/300x300"
+    }
+  ]
+}

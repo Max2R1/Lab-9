@@ -1,0 +1,42 @@
+{
+  "category": {
+    "id": 2,
+    "name": "Criminal",
+    "shortname": "Books",
+    "notes": "Some notes about books."
+  },
+  "items": [
+    {
+      "id": 9,
+      "name": "The Hobbit",
+      "shortname": "Hobbit",
+      "description": "A fantasy novel by J.R.R. Tolkien.",
+      "price": 15.99,
+      "photo": "https://place-hold.it/300x300"
+    },
+    {
+      "id": 10,
+      "name": "Brave New World",
+      "shortname": "Brave New World",
+      "description": "A dystopian novel by Aldous Huxley.",
+      "price": 11.99,
+      "photo": "https://place-hold.it/300x300"
+    },
+    {
+      "id": 11,
+      "name": "The Odyssey",
+      "shortname": "Odyssey",
+      "description": "An epic poem by Homer.",
+      "price": 13.99,
+      "photo": "https://place-hold.it/300x300"
+    },
+    {
+      "id": 12,
+      "name": "The Da Vinci Code",
+      "shortname": "Da Vinci Code",
+      "description": "A mystery thriller novel by Dan Brown.",
+      "price": 17.99,
+      "photo": "https://place-hold.it/300x300"
+    }
+  ]
+}

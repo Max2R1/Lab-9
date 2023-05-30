@@ -1,0 +1,42 @@
+{
+  "category": {
+    "id": 3,
+    "name": "Comedy",
+    "shortname": "Comedy",
+    "notes": "Some notes about books."
+  },
+  "items": [
+    {
+      "id": 5,
+      "name": "Pride and Prejudice",
+      "shortname": "P&P",
+      "description": "A classic novel by Jane Austen.",
+      "price": 9.99,
+      "photo": "https://place-hold.it/300x300"
+    },
+    {
+      "id": 6,
+      "name": "The Catcher in the Rye",
+      "shortname": "Catcher",
+      "description": "A coming-of-age novel by J.D. Salinger.",
+      "price": 11.99,
+      "photo": "https://place-hold.it/300x300"
+    },
+    {
+      "id": 7,
+      "name": "Moby Dick",
+      "shortname": "Moby Dick",
+      "description": "A novel by Herman Melville about a whaling voyage.",
+      "price": 13.99,
+      "photo": "https://place-hold.it/300x300"
+    },
+    {
+      "id": 8,
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "shortname": "HPSS",
+      "description": "The first book in the Harry Potter series by J.K. Rowling.",
+      "price": 19.99,
+      "photo": "https://place-hold.it/300x300"
+    }
+  ]
+}

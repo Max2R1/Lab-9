@@ -1,0 +1,22 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Fantasy",
+            "shortname": "Fantasy",
+            "notes": "Some notes about Fantasy."
+        },
+        {
+            "id": 2,
+            "name": "Criminal",
+            "shortname": "Criminal",
+            "notes": "Some notes about Criminal."
+        },
+        {
+            "id": 3,
+            "name": "Comedy",
+            "shortname": "Comedy",
+            "notes": "Some notes about Comedy."
+        }
+    ]
+}
